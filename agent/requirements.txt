@@ -1,0 +1,29 @@
+annotated-doc==0.0.4
+annotated-types==0.7.0
+anyio==4.13.0
+click==8.4.1
+fastapi==0.136.1
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+pydantic==2.13.4
+pydantic_core==2.46.4
+PyYAML==6.0.3
+ddgs==9.14.4
+mcp==1.27.2
+python-dotenv==1.0.1
+starlette==1.0.1
+streamlit==1.40.2
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+uvicorn==0.47.0
+
+# --- Public data for the council_count tool -----------------------------------
+# councilcount is published by the NYC Council and ships ACS estimates as data
+# files inside the package. It pins exact versions of requests, certifi, urllib3,
+# numpy and pandas, so this file deliberately does not pin those five itself:
+# pip resolves them from here and a plain `pip install -r requirements.txt`
+# works, with no --no-deps step and no extra flags. shapely is a real runtime
+# dependency the package does not declare.
+councilcount==0.11.4
+shapely==2.1.2

@@ -1,0 +1,110 @@
+resources:
+
+  - name: Timekeeping
+    url: https://timekeeping.council.nyc.gov
+    description: NYC Council staff portal for submitting timesheets and tracking attendance, leave, and overtime hours.
+    keywords:
+      - timesheet
+      - attendance
+      - leave
+      - overtime
+      - hours
+
+  - name: Employee Self Service (ESS)
+    url: https://a127-ess.nyc.gov/psp/prdess/?cmd=login
+    description: NYC employee portal for paystubs, W-2 tax forms, payroll, salary, and benefits information.
+    keywords:
+      - paystub
+      - w2
+      - payroll
+      - benefits
+      - tax
+      - salary
+
+  - name: Legistar
+    url: https://legistar.council.nyc.gov/
+    description: NYC Council's legislative management system for bills, resolutions, committee hearings, and agendas.
+    keywords:
+      - bill
+      - legislation
+      - resolution
+      - hearing
+      - agenda
+      - committee
+
+  - name: Working Advantage
+    url: https://www.workingadvantage.com
+    description: Employee discount and perks program offering deals on tickets, entertainment, and other employee benefits.
+    keywords:
+      - discounts
+      - perks
+      - employee deals
+      - tickets
+
+  - name: NYC Administrative Code (AmLegal)
+    url: https://codelibrary.amlegal.com/codes/newyorkcity/latest/overview
+    description: Searchable online library of NYC's Administrative Code, laws, and regulations.
+    keywords:
+      - law
+      - code
+      - regulations
+      - rules
+      - legal
+
+  - name: NYC GPP Archive
+    url: https://a860-gpp.nyc.gov/collections/zw12z528p?locale=en
+    description: Archive of NYC government procurement documents and records.
+    keywords:
+      - procurement
+      - documents
+      - archive
+      - government records
+
+  - name: NYC Open Data
+    url: https://opendata.cityofnewyork.us/
+    description: City of New York's public open data portal for datasets, statistics, and city data analysis.
+    keywords:
+      - datasets
+      - data
+      - statistics
+      - city data
+      - analysis
+
+  - name: IWOMM (Internal Workflow)
+    url: https://iwomm.council.nyc.gov/
+    description: Internal NYC Council workflow system for operational requests and approvals.
+    keywords:
+      - workflow
+      - internal
+      - operations
+      - requests
+      - approvals
+
+  - name: NYCERS (Retirement System)
+    url: https://www.nycers.org/
+    description: New York City Employees' Retirement System portal for pension, retirement, and beneficiary information.
+    keywords:
+      - pension
+      - retirement
+      - beneficiary
+      - service credit
+      - retirement plan
+
+  - name: NYC Charter
+    url: https://nyccharter.readthedocs.io/
+    description: Online text of the New York City Charter describing city government structure and authority.
+    keywords:
+      - charter
+      - government structure
+      - city constitution
+      - authority
+
+  - name: NYC Organization Chart
+    url: https://comptroller.nyc.gov/wp-content/uploads/2025/11/NYC-Organization-Chart-July-2025.pdf
+    description: PDF organization chart showing the structure, agencies, and hierarchy of NYC government departments.
+    keywords:
+      - organization
+      - structure
+      - agencies
+      - hierarchy
+      - departments

@@ -1,0 +1,106 @@
+[
+  {
+    "model_index": 4,
+    "model_name": "Claude Sonnet 5.5 + tools",
+    "elo_mean": 1703.7594546751907,
+    "elo_std": 22.425856806816885,
+    "elo_ci_lower": 1655.8067533209457,
+    "elo_ci_upper": 1739.4054457628424
+  },
+  {
+    "model_index": 5,
+    "model_name": "Grok 4.7 + tools",
+    "elo_mean": 1580.4379417504006,
+    "elo_std": 19.447336659979047,
+    "elo_ci_lower": 1539.1802291375773,
+    "elo_ci_upper": 1617.1055420460373
+  },
+  {
+    "model_index": 12,
+    "model_name": "NYCC character trained agent",
+    "elo_mean": 1556.5618047437297,
+    "elo_std": 22.07649852985285,
+    "elo_ci_lower": 1512.3419983551219,
+    "elo_ci_upper": 1604.3130357640673
+  },
+  {
+    "model_index": 0,
+    "model_name": "NYCC Agent",
+    "elo_mean": 1550.8325274389226,
+    "elo_std": 21.019451030062072,
+    "elo_ci_lower": 1513.587350358601,
+    "elo_ci_upper": 1595.5917783713203
+  },
+  {
+    "model_index": 3,
+    "model_name": "GPT-6 Sol + tools",
+    "elo_mean": 1530.3987775441615,
+    "elo_std": 19.56009808907741,
+    "elo_ci_lower": 1496.8633003295413,
+    "elo_ci_upper": 1566.4289335077958
+  },
+  {
+    "model_index": 2,
+    "model_name": "Claude Opus 4.7 + tools",
+    "elo_mean": 1521.750182139375,
+    "elo_std": 17.086969709528436,
+    "elo_ci_lower": 1491.633999461661,
+    "elo_ci_upper": 1555.9363763985116
+  },
+  {
+    "model_index": 9,
+    "model_name": "GPT-6 Sol (bare)",
+    "elo_mean": 1432.6779832640586,
+    "elo_std": 22.89591187586727,
+    "elo_ci_lower": 1398.2961205307602,
+    "elo_ci_upper": 1478.9876440527923
+  },
+  {
+    "model_index": 11,
+    "model_name": "Character-trained model + tools",
+    "elo_mean": 1429.4067219293763,
+    "elo_std": 21.00239981829713,
+    "elo_ci_lower": 1391.8824510354652,
+    "elo_ci_upper": 1469.76947156472
+  },
+  {
+    "model_index": 1,
+    "model_name": "Qwen + tools, no constitution",
+    "elo_mean": 1383.0541058029442,
+    "elo_std": 21.107138697888075,
+    "elo_ci_lower": 1347.344992464837,
+    "elo_ci_upper": 1422.9054618102919
+  },
+  {
+    "model_index": 10,
+    "model_name": "Character-trained model",
+    "elo_mean": 1382.425635619048,
+    "elo_std": 23.06884888407215,
+    "elo_ci_lower": 1339.4196875482264,
+    "elo_ci_upper": 1428.6722688005752
+  },
+  {
+    "model_index": 7,
+    "model_name": "Qwen 3.8 27B (bare)",
+    "elo_mean": 1303.701700703129,
+    "elo_std": 30.281603026338267,
+    "elo_ci_lower": 1248.1610851103212,
+    "elo_ci_upper": 1369.4256021215972
+  },
+  {
+    "model_index": 8,
+    "model_name": "Claude Opus 4.7 (bare)",
+    "elo_mean": 1200.5640180805754,
+    "elo_std": 18.556131467532676,
+    "elo_ci_lower": 1171.6263853368266,
+    "elo_ci_upper": 1238.541459241096
+  },
+  {
+    "model_index": 6,
+    "model_name": "Gemini 3 Flash + tools",
+    "elo_mean": 1191.7392028297058,
+    "elo_std": 17.384645921187808,
+    "elo_ci_lower": 1156.2202743423036,
+    "elo_ci_upper": 1223.1753958200986
+  }
+]

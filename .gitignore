@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+.DS_Store
+figures/output/
+capability_evals/logs/
+capability_evals/logs_rescored/
